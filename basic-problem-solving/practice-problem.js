@@ -11,3 +11,6 @@ var teamWork2 = {
 
     }
     sum(12, 32);
+
+
+var animals = [ 'cows', 'monkeys', 'pigs'];
